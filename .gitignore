@@ -4,3 +4,5 @@
 data/flower_photos.tgz
 *.tgz
 *.jpg
+data/train_set/train_set/points/2500.mat
+*.mat
