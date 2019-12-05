@@ -3,7 +3,7 @@
 Term: Fall 2018
 
 + Team group5
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Implementation of CNN in Emotion Recognition
 + Team members
 	+ team member Xudong Guo
 	+ team member Yanyan Liu
