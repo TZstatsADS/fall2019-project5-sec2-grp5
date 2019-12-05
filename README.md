@@ -2,15 +2,21 @@
 
 Term: Fall 2018
 
-+ Team #
++ Team group5
 + Projec title: Lorem ipsum dolor sit amet
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ team member Xudong Guo
+	+ team member Yanyan Liu
+	+ team member Hang hu
+	+ team member Nan Yang
+	+ team member Sixuan li
++ Project summary: The purpose of this project is using CNN models to recognize facial expression, we used fer2013 dataset from kaggle https://www.kaggle.com/deadskull7/fer2013. The dataset contains 34034 unique photos with clearly-defined labels of 7 different emotions.
+
+Three modified CNN models: VGG19, Mobilenet, Resnet were applied to our datasets, there training accuracy and testing accuracy were collected to make comparison.
+
+We also build an improved model based on all three models above, the new model performance is better than previous models.
+Training time drops from around 450s to 360s for each epoch. Validation loss drops from 1.3889 to 1.2041 and validation accuracy enhances from 45.12% to 54.08%.
+
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
