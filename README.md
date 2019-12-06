@@ -28,8 +28,8 @@ Training time drops from around 450s to 360s for each epoch. Validation loss dro
 **Contribution statement**: 
 1. Xudong Guo: Trained and tuned MobileNet, ResNet transfer learning models and the Improved Model, generated report
 2. Yanyan Liu: Trained and tuned VGG19 transfer learning model and the Improved Model, developed pixel decoding algorithm
-3. Hang Hu:
-4. Nan Yang:
+3. Hang Hu: Conducted the research about image classification models and algorithnms and helped with PPT slides
+4. Nan Yang: Presented the project and make the PPT slides and conducted the research about classification models.
 5. Sixuan Li:
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
