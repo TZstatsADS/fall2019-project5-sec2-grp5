@@ -30,7 +30,7 @@ Training time drops from around 450s to 360s for each epoch. Validation loss dro
 2. Yanyan Liu: Trained and tuned VGG19 transfer learning model and the Improved Model, developed pixel decoding algorithm
 3. Hang Hu: Conducted the research about image classification models and algorithnms and helped with PPT slides
 4. Nan Yang: Presented the project and make the PPT slides and conducted the research about classification models.
-5. Sixuan Li:
+5. Sixuan Li:Found data for the project, data preprossing and research work including built an function used to recover the image of fer2013 original pixel's data. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
